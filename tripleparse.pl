@@ -1,4 +1,8 @@
 #!C:\Perl\bin\perl -w
+
+# I didn't write this script!
+# It was written by Brogett and provided on the EQ forums.
+# source: https://forums.daybreakgames.com/eq/index.php?threads/is-there-a-theoretical-dps-calculator.212455/#post-3108181
  
 # Breaks an attack into rounds.
 # Note this *ONLY* works when mainhand and offhand have the same delay. When
